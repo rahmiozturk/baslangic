@@ -1,0 +1,2 @@
+# baslangic
+İlk Deneyimlerim
